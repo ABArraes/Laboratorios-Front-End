@@ -3,7 +3,7 @@ body {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	margin-left: auto;
 	margin-right: auto;
-	width: 940px
+	width: 940px;
 }
 h1{
 	background-image: url(../img/sobre-background.jpg);	
@@ -17,8 +17,8 @@ h2{
 	margin-top: 30px;
 }
 figure{
-	background-color: #F2EDED;
-	border: 1px solid #ccc;
+	background-color: lightgray;
+	border: 1px solid rgb(204,203,203) 
 	text-align: center;
 	padding: 15px;
 	margin: 30px;
